@@ -1,0 +1,10 @@
+Microsoft Windows XP [版本 5.1.2600]
+(C) 版权所有 1985-2001 Microsoft Corp.
+
+C:\Documents and Settings\Administrator>d:
+
+D:\>cd D:\Program Files\RadASM\masm32\bin
+
+D:\Program Files\RadASM\masm32\bin>link -lib e:\闫辉\masm研究\libMDA\libMDA.obj
+Microsoft (R) Library Manager Version 5.12.8078
+Copyright (C) Microsoft Corp 1992-1998. All rights reserved.
